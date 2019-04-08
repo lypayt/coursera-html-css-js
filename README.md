@@ -1,2 +1,2 @@
-# cousera-html-css-js
+# coursera-html-css-js
 Coursera course "HTML, CSS, and Javascript for Web Developers"

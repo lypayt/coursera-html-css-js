@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ly's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lypayt/coursera-html-css-js/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -3,6 +3,11 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
 /* HEADER */
 #header-nav {
     background-color: #f6b319;
@@ -11,14 +16,17 @@
 
 h1 {
     margin-bottom: 15px;
-    text-align: center;
 }
 
-.nav-item.center {
-    text-align: center;
+.nav-item.text-center {
     border-bottom: 1px solid black;
     border-left: 1px solid black;
     border-right: 1px solid black;
+    background-color:  #a59367;
+}
+
+.navbar-dark .navbar-toggler {
+    border: 1px solid white;
 }
 
 .contentContainer {
